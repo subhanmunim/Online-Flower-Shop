@@ -239,6 +239,7 @@ span {
     background-size: cover;
     margin: auto;
     border-radius: 5px;
+    margin-top: 60px;
     margin-bottom: 60px;
     text-align: center;
     display: flex;
